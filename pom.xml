@@ -8,5 +8,6 @@
   	<module>helloweb03</module>
   	<module>hellowebreviews</module>
   	<module>hellowebreview</module>
+  	<module>emaillist03</module>
   </modules>
 </project>
